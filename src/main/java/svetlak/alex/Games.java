@@ -1,4 +1,4 @@
-package Svetlak.Alex;
+package svetlak.alex;
 
 public class Games {
     public String title, genre;

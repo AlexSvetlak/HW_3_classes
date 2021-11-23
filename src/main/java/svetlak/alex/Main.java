@@ -1,4 +1,4 @@
-package Svetlak.Alex;
+package svetlak.alex;
 
 public class Main {
     public static void main(String[] args) {
